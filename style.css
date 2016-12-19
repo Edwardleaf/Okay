@@ -1,0 +1,32 @@
+.intro {
+    color: black;
+    background-color:burlywood;
+}
+
+.intro img {
+    height: 150px;
+    width: 150px;
+}
+
+.intro h1 {
+    color: black;
+    font-family:sans-serif;
+}
+
+.intro p {
+    color: black;
+    align-content: center;
+    font-family: georgia;
+}
+
+.my_projects {
+    background-color:lavenderblush;
+    height: auto;
+    font-family: georgia;
+}
+
+.Contact {
+    font-family: georgia;
+    background-color:white;
+    height:auto;
+}
