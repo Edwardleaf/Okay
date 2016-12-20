@@ -15,16 +15,12 @@
 	#header .logo {
 		margin: 0 auto;
 	}
-
+/*diplays my name in a horizontal line*/
 	#header .content {
-		display: inline-block;
+		display: inline-block; 
 	}
-
-	#header nav ul {
-		display: inline-block;
-	}
-
-		#header nav ul li {
+/*diplays the four sections horizontally*/
+		#header nav ul li {		
 			display: inline-block;
 		}
 
