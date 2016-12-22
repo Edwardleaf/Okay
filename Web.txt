@@ -1,0 +1,4 @@
+list of changes
+added own pictures
+changed diamond icon by downloading an updated fontawesome toolkit and updated folder
+Shrunk code by half in main
